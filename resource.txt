@@ -1,0 +1,12 @@
+(Imp)Internet Computer : https://internetcomputer.org/docs/current/home
+
+Motoko style guidelines : https://internetcomputer.org/docs/current/motoko/main/style
+Debug : https://internetcomputer.org/docs/current/motoko/main/base/Debug/
+
+Hello Example Code : https://github.com/dfinity/examples/tree/master/motoko/hello
+Candid : https://internetcomputer.org/docs/current/developer-docs/backend/candid/candid-concepts
+(optional)GitLab API Doc : https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/api/openapi/openapi.yaml
+
+Queries vs updates : https://internetcomputer.org/docs/current/tutorials/create_your_first_app/adding-variables-and-methods/#queries-vs-updates
+
+Time : https://internetcomputer.org/docs/current/motoko/main/base/Time/
