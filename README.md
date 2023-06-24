@@ -1,5 +1,5 @@
 # DBank
-DBank is a decentralized bank protocol built on the Internet Computer platform. It provides users with the ability to manage their crypto assets, including topping up or withdrawing funds, and earning compound interest on their deposits.
+DBank is a decentralized bank built on the Internet Computer protocol. It provides users with the ability to manage their crypto assets, including topping up or withdrawing funds, and earning compound interest on their deposits.
 
 ## Features
 - **Top-up**: Users can deposit their crypto assets into their DBank account.
